@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 100">
+  <style>
+    .text { font: 18px sans-serif; fill: black; }
+    .cursor { fill: black; animation: blink 1s step-end infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <text x="10" y="40" class="text">Hi there 👋</text>
+  <text x="10" y="70" class="text">
+    <tspan> I am Ammaar Naveed</tspan>
+  </text>
+  <rect x="205" y="25" width="10" height="50" class="cursor"/>
+</svg>
