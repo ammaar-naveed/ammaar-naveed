@@ -17,13 +17,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" width="40" alt=".NET" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dotnetcore-original.svg" height="40" width="40" alt=".NET Core" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="40" alt=".NET Core" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="40" alt="SQL Server" />
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 15px;">
   <img src="https://img.icons8.com/color/48/rabbitmq.png" height="40" width="40" alt="RabbitMQ" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" height="40" width="40" alt="Blazor" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5" />
