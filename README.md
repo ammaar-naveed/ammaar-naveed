@@ -1,43 +1,63 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=24&duration=4000&pause=&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Ammaar+Naveed!)](https://git.io/typing-svg)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ammaar-naveed" />
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ammaarnaveed&label=Profile+visitors&color=0e75b6&style=flat" alt="ammaarnaveed" />
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ammaar+Naveed!;" />
+</h1>
 
----
+<h3 align="center">Founder @ <a href="https://empeer.tech">Deltiv Technologies</a> | Developing & Delivering Impactful Solutions  🚀</h3>
 
-## 🚀 I'm a Full Stack Developer
-
----
-
-## 🛠 My Tech Stack
+<br/>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" width="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="40" alt=".NET Core" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" height="40" width="40" />
+ 
+⚙️ Working on Full-Stack, and .NET Powered SaaS. 
+📈 Exploring Business Development, Technical Sales, Service To Productization 
+💬 Ask me!
 </div>
 
-<div align="center" style="margin-top: 15px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" width="40" alt="Postman" />
+<br/>
+
+<div align="center"> 
+  <a href="mailto:ammaarofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/ammaar-naveed/" target="_blank">  
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
-<div align="center" style="margin-top: 15px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" width="40" alt="Postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-plain-wordmark.svg" height="40" width="40"/>
+---
+
+### ⚒️ Languages, Frameworks & Tools
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,tailwind,javascript,azure,git,visualstudio,vercel,vscode" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ammaar-naveed/ammaar-naveed/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ammaar-naveed&theme=dark&border_radius=10" alt="GitHub Streak" />
+  </a>
+</div>
+
+---
+
+### ☕ Buy Me a Coffee
+
+<div align="center">
+<a href='https://buymeacoffee.com/ammaarnaveed' target='_blank'>
+<img height='64' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' alt='Buy Me a Coffee at ko-fi.com' />
+</a>
 </div>
