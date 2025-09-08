@@ -10,8 +10,8 @@
 
 <div align="center">
  
-⚙️ Working on Full-Stack, and .NET Powered SaaS. 
-📈 Exploring Business Development, Technical Sales, Service To Productization 
+⚙️ Working on Full-Stack, and .NET Powered SaaS. <br/>
+📈 Exploring Business Development, Technical Sales, Service To Productization <br/>
 💬 Ask me!
 </div>
 
