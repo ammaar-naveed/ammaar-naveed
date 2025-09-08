@@ -37,11 +37,6 @@
 ---
 
 ### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ammaar-naveed/ammaar-naveed/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ammaar-naveed/ammaar-naveed/output/github-snake.svg">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg">
-</picture>
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ammaar-naveed/ammaar-naveed/output/github-snake.svg" />
