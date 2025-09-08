@@ -39,7 +39,7 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ammaar-naveed/ammaar-naveed/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
 </div>
 
 ---
